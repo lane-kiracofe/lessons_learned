@@ -1,0 +1,9 @@
+Git commit messages
+
+Always inlcude a line between the subject and the body of the message.
+When creating commit messages use imperative mood in the subject line.
+Which means write as if you're giving a command. "Clean your room" "Close the door"
+For the subject line, rule of thumb is 50 chars with 72 being a hard limit.
+Anything over 72 chars is cut off and replaced with elipses.
+Wrap the body at 72 chars and use the body to explain the what and why, not how.
+The how should be explained by code while the commit message provides context as to why.
